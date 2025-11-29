@@ -1,0 +1,16 @@
+Class_ID,String_Label
+1,open_spaces_low_vegetation
+2,open_spaces_medium_vegetation
+3,open_spaces_high_vegetation
+4,open_spaces_water
+5,open_spaces_road
+6,residential_height_0_3m
+7,residential_height_3_6m
+8,residential_height_6_15m
+9,residential_height_15_30m
+10,residential_height_over_30m
+11,nonresidential_height_0_3m
+12,nonresidential_height_3_6m
+13,nonresidential_height_6_15m
+14,nonresidential_height_15_30m
+15,nonresidential_height_over_30m
